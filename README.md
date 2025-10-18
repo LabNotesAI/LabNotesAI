@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 # Technical Interests & Future Focus
-Passionate about advancing into artificial intelligence, with a strong foundation in software engineering and open source technologies. I maintain a home lab environment leveraging Docker, bare metal, and virtualized containers to experiment with modern architectures. I have developed custom AI tools and lightweight agents to automate personal projects, and have explored computer vision through object detection and recognition. My enthusiasm for data collection and analysis drives me to design practical experiments and test new approaches. With 16+ years of software experience and a background in the education sector, I bring both technical depth and the ability to communicate complex ideas clearly — skills I am eager to apply in AI driven software development.
+Passionate about advancing into artificial intelligence, with a strong foundation in software engineering and open source technologies. I maintain a home lab environment leveraging Docker, bare metal, and virtualized containers to experiment with modern architectures. I have developed custom AI tools and lightweight agents to automate personal projects, and have explored computer vision through object detection and recognition. My enthusiasm for data collection and analysis drives me to design practical experiments and test new approaches. With 16+ years of software experience and a background in the education sector, I bring both technical depth and the ability to communicate complex ideas clearly — skills I am eager to apply in AI driven software development. As I continue exploring AI, I aim to design tools that balance creativity with accountability, ensuring privacy and transparency remain at the core.
+
+# Projects
+•	Personal Knowledge System – Built a note taking and retrieval tool using MongoDB to store and query raw notes for fast access.
+•	Computer Vision with Hailo PI AI+ Kit – Integrated with Frigate and security cameras to detect people, vehicles, and animals in real time.
+•	AI Exploration – Experimented with multiple AI engines, developing lightweight agents and tools to automate workflows and accelerate learning.
+•	Data Collection & Analysis – Designed small scale experiments to gather, structure, and analyze personal datasets for AI exploration.
+
 <!--
 **LabNotesAI/LabNotesAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
