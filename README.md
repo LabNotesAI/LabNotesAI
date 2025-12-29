@@ -1,3 +1,26 @@
+<p align="center">
+
+  <!-- Professional Identity -->
+  <img src="https://img.shields.io/badge/Software%20Engineer-16%2B%20Years-blue" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" />
+  <img src="https://img.shields.io/badge/Python-Developer-yellow" />
+  <img src="https://img.shields.io/badge/React-Full%20Stack-blueviolet" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-success" />
+
+  <!-- AI‑Augmented Engineering -->
+  <img src="https://img.shields.io/badge/AI%20Augmented-Engineering-orange" />
+  <img src="https://img.shields.io/badge/Local%20LLMs-Ollama-red" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Refinement-lightgrey" />
+  <img src="https://img.shields.io/badge/Multi--Model-Workflows-informational" />
+
+  <!-- Home‑Lab Roots -->
+  <img src="https://img.shields.io/badge/Home%20Lab-Builder-9cf" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-Projects-critical" />
+  <img src="https://img.shields.io/badge/Self--Hosted-Services-blue" />
+  <img src="https://img.shields.io/badge/Edge%20AI-Hailo%20Pi-important" />
+
+</p>
+
 # LabNotesAI — AI‑Augmented Engineering
 
 I’m a software engineer exploring how AI can enhance real‑world development. I work hands‑on in a home lab environment using Docker, bare metal, and virtualized containers to test ideas, build prototypes, and run local LLMs. My focus is on practical AI‑augmented engineering — using models as collaborators while keeping human judgment, privacy, and transparency at the core.
@@ -18,10 +41,10 @@ A Raspberry Pi → Python → Local LLM → MongoDB pipeline that parses text fi
 ---
 
 ### **M_R_A — AI‑Assisted React + MongoDB App**
-A small full‑stack app built through a combination of AI‑generated code, human debugging, and iterative refinement. This project taught me a lot about hallucinations, prompt specificity, and when to override the model.  
+A small full‑stack app built through a combination of AI‑generated code, human debugging, and iterative refinement.  
 **Repository:** https://github.com/LabNotesAI/M_R_A  
 **Case Studies:**  
-- https://labnotesai.github.io/portfolio/multi-model-workflow.md   
+- https://labnotesai.github.io/portfolio/multi-model-workflow.md  
 - https://labnotesai.github.io/portfolio/debugging-ai-generated-code.md
 
 ---
