@@ -13,7 +13,7 @@ With 16+ years of software experience and a background in the education sector, 
 ### **AI‑Powered Note Organizer**
 A Raspberry Pi → Python → Local LLM → MongoDB pipeline that parses text files, generates semantic tags, and stores structured notes for fast retrieval.  
 **Repository:** https://github.com/LabNotesAI/AI-Powered-Note-Organizer  
-**Case Study:** `/portfolio/ai-augmented-pipeline.md`
+**Case Study:** https://labnotesai.github.io/portfolio/ai-augmented-pipeline.md
 
 ---
 
@@ -21,8 +21,8 @@ A Raspberry Pi → Python → Local LLM → MongoDB pipeline that parses text fi
 A small full‑stack app built through a combination of AI‑generated code, human debugging, and iterative refinement. This project taught me a lot about hallucinations, prompt specificity, and when to override the model.  
 **Repository:** https://github.com/LabNotesAI/M_R_A  
 **Case Studies:**  
-- `/portfolio/multi-model-workflow.md`  
-- `/portfolio/debugging-ai-generated-code.md`
+- https://labnotesai.github.io/portfolio/multi-model-workflow.md   
+- https://labnotesai.github.io/portfolio/debugging-ai-generated-code.md
 
 ---
 
