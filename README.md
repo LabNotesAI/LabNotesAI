@@ -1,25 +1,66 @@
-## Hi there 👋
+# LabNotesAI — AI‑Augmented Engineering
 
-# Technical Interests & Future Focus
-Passionate about advancing into artificial intelligence, with a strong foundation in software engineering and open source technologies. I maintain a home lab environment leveraging Docker, bare metal, and virtualized containers to experiment with modern architectures. I have developed custom AI tools and lightweight agents to automate personal projects, and have explored computer vision through object detection and recognition. My enthusiasm for data collection and analysis drives me to design practical experiments and test new approaches. With 16+ years of software experience and a background in the education sector, I bring both technical depth and the ability to communicate complex ideas clearly — skills I am eager to apply in AI driven software development. As I continue exploring AI, I aim to design tools that balance creativity with accountability, ensuring privacy and transparency remain at the core.
+I’m a software engineer exploring how AI can enhance real‑world development. I work hands‑on in a home lab environment using Docker, bare metal, and virtualized containers to test ideas, build prototypes, and run local LLMs. My focus is on practical AI‑augmented engineering — using models as collaborators while keeping human judgment, privacy, and transparency at the core.
 
-# Projects
-*	Personal Knowledge System – Built a note taking and retrieval tool using MongoDB to store and query raw notes for fast access.
-*	Computer Vision with Hailo PI AI+ Kit – Integrated with Frigate and security cameras to detect people, vehicles, and animals in real time.
-*	AI Exploration – Experimented with multiple AI engines, developing lightweight agents and tools to automate workflows and accelerate learning.
-*	Data Collection & Analysis – Designed small scale experiments to gather, structure, and analyze personal datasets for AI exploration.
+Over time I’ve built lightweight agents, custom tools, and small pipelines that combine traditional software engineering with modern AI workflows. I’ve also explored computer vision, data collection, and structured analysis through personal experiments and home‑lab projects.
 
-<!--
-**LabNotesAI/LabNotesAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 16+ years of software experience and a background in the education sector, I enjoy breaking down complex ideas and turning them into approachable, working systems. As I continue exploring AI, my goal is to design tools that are useful, reliable, and grounded in real‑world constraints.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured Projects
+
+### **AI‑Powered Note Organizer**
+A Raspberry Pi → Python → Local LLM → MongoDB pipeline that parses text files, generates semantic tags, and stores structured notes for fast retrieval.  
+**Repository:** https://github.com/LabNotesAI/AI-Powered-Note-Organizer  
+**Case Study:** `/portfolio/ai-augmented-pipeline.md`
+
+---
+
+### **M_R_A — AI‑Assisted React + MongoDB App**
+A small full‑stack app built through a combination of AI‑generated code, human debugging, and iterative refinement. This project taught me a lot about hallucinations, prompt specificity, and when to override the model.  
+**Repository:** https://github.com/LabNotesAI/M_R_A  
+**Case Studies:**  
+- `/portfolio/multi-model-workflow.md`  
+- `/portfolio/debugging-ai-generated-code.md`
+
+---
+
+### **Computer Vision with Hailo Pi AI+ Kit**
+Integrated with Frigate and home security cameras to detect people, vehicles, and animals in real time using edge‑based inference.
+
+---
+
+### **AI Workflow Experiments**
+Tested multiple local LLMs, built lightweight agents, and explored multi‑model workflows (Planner + Coder) to understand model behavior, hallucination patterns, and prompt refinement.
+
+---
+
+### **Data Collection & Analysis**
+Designed small‑scale experiments to gather, structure, and analyze personal datasets, focusing on practical applications of AI‑assisted reasoning.
+
+---
+
+## 🧠 Technical Interests & Focus
+
+- AI‑augmented development workflows  
+- Multi‑model orchestration (Planner + Coder setups)  
+- Prompt refinement and hallucination control  
+- Local LLMs (Ollama, Qwen, Llama)  
+- Containerized deployment  
+- Building tools that help humans debug AI‑generated code  
+
+---
+
+## 📘 Portfolio Website
+
+My GitHub Pages site (Markdown‑based, simple, and evolving):  
+**https://labnotesai.github.io**
+
+---
+
+## 🧩 About This Space
+
+This GitHub is intentionally minimal. I’m not trying to impress with perfect code — I’m documenting the real process of learning, building, and improving with AI as a collaborator.
+
+If you’re exploring AI‑augmented engineering, feel free to browse the repos or read through the case studies. More projects and write‑ups will be added over time.
